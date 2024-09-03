@@ -1,4 +1,4 @@
-## Hi there 👋
+## ment app of group 6
 
 <!--
 **aquibgit/aquibgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
